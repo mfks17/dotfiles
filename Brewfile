@@ -1,4 +1,4 @@
-# Make sure using latest Homebrew
+#Make sure using latest Homebrew
 update
 
 # Update already-installed formula (takes too much time, I will do it manually later)
@@ -12,7 +12,6 @@ tap mfks17/mycask || true
 
 # Packages
 install zsh
-install git
 install git-flow
 install hub
 install tmux
@@ -55,9 +54,10 @@ cask install appcleaner
 cask install dash
 cask install skitch
 cask install gyazo # my
+cask install gyazo-gif # my
 cask install echofon # my
 cask install sourcetree
-cask install cot-editor #my
+cask install cot-editor # my
 cask install mou
 cask install clipmenu
 cask install vlc
