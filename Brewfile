@@ -8,6 +8,7 @@ upgrade
 tap homebrew/versions || true
 tap homebrew/binary || true
 tap phinze/homebrew-cask || true
+tap railwaycat/emacsmacport || true
 tap mfks17/mycask || true
 
 # Packages
@@ -20,6 +21,7 @@ install z
 install readline
 install openssl
 install tree
+install emacs-mac
 install brew-cask
 install packer
 
