@@ -51,6 +51,7 @@ cask install macvim-kaoriya
 
 cask install anki
 cask install alfred
+cask insrall fluid
 cask install xtrafinder
 cask install appcleaner
 cask install dash
