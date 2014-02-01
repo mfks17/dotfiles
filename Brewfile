@@ -49,6 +49,7 @@ cask install webstorm
 cask install android-studio
 cask install macvim-kaoriya
 
+cask install iterm2
 cask install anki
 cask install alfred
 cask insrall fluid
