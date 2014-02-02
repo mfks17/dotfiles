@@ -15,6 +15,7 @@ tap mfks17/mycask || true
 install zsh
 install git-flow
 install hub
+install go
 install tmux
 install tig
 install z
