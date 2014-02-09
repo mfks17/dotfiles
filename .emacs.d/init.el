@@ -2,6 +2,7 @@
     ((user-emacs-directory
       (substring (or load-file-name "~/.emacs.d/init.el") 0 -7))
      (conf-list (list
+     	         "init.el"
                  "exec-path.el"
                  "el-get.el"
                  "helm.el"
@@ -9,6 +10,7 @@
                  "perl-mode.el"
                  "perl-completion.el"
                  "perl-flymake.el"
+                 "go.el"
                  "popwin.el"
                  "quickrun.el"
                  "helm-project.el"
