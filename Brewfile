@@ -47,6 +47,8 @@ cask install google-app-engine-launcher
 cask install appcode
 cask install rubymine
 cask install webstorm
+cask install pycharm-community
+cask install intellij-idea-community
 cask install android-studio
 cask install macvim-kaoriya
 
