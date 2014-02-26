@@ -65,7 +65,7 @@ cask install gyazo-gif # my
 cask install echofon # my
 cask install sourcetree
 cask install cot-editor # my
-cask install mou
+cask install lightpaper
 cask install clipmenu
 cask install vlc
 cask install liya # my
