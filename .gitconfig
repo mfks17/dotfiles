@@ -1,0 +1,6 @@
+[core]
+        editor = vim
+        excludesfile = ~/.gitignore
+[user]
+        name = mfks17
+        email = mfks17@gmail.com
