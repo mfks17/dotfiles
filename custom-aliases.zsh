@@ -1,0 +1,6 @@
+alias ghg='ghq get'
+alias o='open .'
+alias gho='gh-open .'
+alias vi='mvim -v'
+alias gi='gvim'
+alias sl='swiftlint'
