@@ -12,8 +12,7 @@ do
   test $file == ".." && continue
   test $file == "Brewfile" && continue
   test $file == "README.md" && continue
-  test $file == "custom-aliases.zsh" && continue
-  test $file == "custom-zshrc.zsh" && continue
+  test $file == "custom*" && continue
 
   if [ ! -e "${homefile}" ]; then
      echo "${file} not exis, make symbolic link to ${homefile}"
