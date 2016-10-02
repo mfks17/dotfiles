@@ -14,6 +14,9 @@ compinit -u
 export GOPATH="$HOME/.go"
 export PATH="$GOPATH/bin:$PATH"
 
+# Android
+export ANDROID_HOME="$HOME/Library/Android/sdk"
+
 function peco-src () {
   local selected_dir=$(ghq list -p | peco --query "$LBUFFER")
   if [ -n "$selected_dir" ]; then
